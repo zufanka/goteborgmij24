@@ -38,11 +38,20 @@ Feel free to use other resources and LLM assistants to help you further. For tip
 - **functions** (`def()` & `return`)
 
 ## Homework 1
-- Deadline: 30th November
+Deadline: **30th November**
 
 ### Generative art with Turtle
-- [read the documentation](https://docs.python.org/3/library/turtle.html) to the Turtle package
-- write a script that will draw a shape that contains at least 4 colors.
-- use the [`random` library](https://docs.python.org/3/library/random.html) and at least one `list`, the `range()` function, a `for loop`, and an `if / else` statement
-- [upload the homework](https://forms.gle/m3cQtyZ5D9hZp5zw7) as a `.py` script 
-- fill in [short survey](https://forms.gle/6fdtCDx5wTNjPYkn8)
+Write a script that will draw a shape that contains at least 4 colors.
+
+[Read the documentation](https://docs.python.org/3/library/turtle.html) to the Turtle package
+
+Use:
+- [`random` library](https://docs.python.org/3/library/random.html)
+- `list`
+- `range()`
+- `for` loop
+- `if / elif / else` statement
+
+[Upload the homework](https://forms.gle/m3cQtyZ5D9hZp5zw7) as a `.py` script 
+
+Fill in [short survey](https://forms.gle/6fdtCDx5wTNjPYkn8)
