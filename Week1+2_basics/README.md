@@ -15,8 +15,8 @@ If you are familiar with some programming and concepts, go straight for the othe
 Feel free to use other resources and LLM assistants to help you further. For tips how to use LLMs for learning see [Using LLMs for learning](resources/usingllms.md)
 
 ## Download
-- [python](https://www.python.org/downloads/)
-- [VScode](https://code.visualstudio.com/)
+- [python](https://www.python.org/downloads/) 
+- [VScode](https://code.visualstudio.com/) + python extension (in VScode 'extensions')
 
 ## Resources
 - Video: [Introduction to Python](https://www.youtube.com/watch?v=rfscVS0vtbw) 4 hours introduction including building mini games
