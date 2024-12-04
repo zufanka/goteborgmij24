@@ -1,5 +1,8 @@
  
 # Week 1&2: Basics
+[slides](https://homolova.sk/goteborgmij24/introduction/)
+
+
 Welcome to the course! See below for the resources & homework. You can find the slides from the session in this folder as well. To view them on your own computer, click right up on "download as zip" and open the `index.html` file.
 
 A large part of programming is self-study. To foster this mindset, in the first 6 weeks you will be mostly on your own.

@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Python for scraping</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/night.css">
+
+		<style type="text/css">
+			section { text-align: left; }
+			section strong {
+    			color: #FE7F6E;
+			}
+			section em, i {
+    			color: #84C5E6; 
+			}
+			.reveal img {
+				max-width: 60%;
+				text-align: center;
+			}
+
+		</style>
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-background="img/frontpic.webp"></section>
+				<section
+				data-background="img/frontpic.webp"
+				data-background-opacity="0.3"
+				data-markdown
+				data-transition="none">
+				# Python for scraping
+				</section>
+				
+				<section data-markdown>
+					# Homework
+				</section>
+
+				<section data-background-transition="slide" data-background="img/turtle.png"></section>
+				
+				<section data-markdown>
+					<script type="text/template">
+
+## Today:
+*05.12. / 14:15 - 15:45 (1.5h) Zoom*
+
+- Homework / *30 min*
+- Break / *10 min*
+- Introduction to scraping (recorded) / *50 min*
+
+---
+### syntax
+
+```python
+ 8     for c in ('blue', 'yellow', 'green', "orange"):  
+ 9         color(c)
+```
+---
+### for
+
+```python
+12     for _ in range(4):  
+13         t.forward(size)  
+14         t.right(90)
+```
+---
+### comments
+
+```python
+40 #I'm using a for loop that uses the variables defined above: a random number of sides (range), a random colour (  list), a length (rules above)  
+41 #The for loop is running as many times as there are sides  
+42 #The pencil (turtle) runs either left or right depending on the random direction chosen above ("if direction..."  
+   )  
+43 for i in range(sides):  
+44     colour = random.choice(colours)  
+45     turtle.color(colour)  
+46     turtle.forward(length)  
+47     if direction == "left":  
+48         turtle.left(angle)  
+49     else:  
+50         turtle.right(angle)
+```
+
+---
+### if elif else
+
+```python
+26			if color in ["yellow", "pink"]:  
+27             shape.fillcolor(color)  
+28         elif color in ["blue", "black"]:  
+29             shape.fillcolor(color)  
+30         else:  
+31             shape.fillcolor(color)
+```
+---
+### if elif else
+
+```python
+16     if i % 3 == 0:  
+17         turtle.pensize(3)  
+18     elif i % 3 == 1:  
+19         turtle.pensize(10)  
+20         turtle.pensize(5)
+```
+
+---
+
+## Why are we doing this now
+
+---
+## Memory
+
+- **Working memory** is where the information is processed, while you think about it.
+- **Long-term memory** stores information for a very long time. 
+- **Short-term memory** is used to briefly hold incoming information.
+
+---
+
+![](img/memory1.png)
+
+**information** (*1*) coming into your brain, proceeds into your **short-term memory** (*2*), then traveling from the short-term memory into the **working memory** (*3*), where it’s combined with information from the **long-term memory** (*4*)
+---
+
+![](img/memory2.png)
+
+---
+- short-term memory can hold 2-6 items at the time
+- lack enough knowledge in your long-term memory -> short-term memory will run out of capacity
+- short term memory relies on the long term memory to be able to create *chunks* of information for itself to hold
+
+---
+
+```python
+ 8     for c in ('blue', 'yellow', 'green', "orange"):  
+ 9         color(c)
+```
+
+---
+- Long-term memory decays
+- In an hour you will typically forget **half** of what you learned
+- use comments in your code!
+
+![](img/memory3.png)
+
+---
+
+[source: The programmers brain](https://www.manning.com/books/the-programmers-brain?)
+
+---
+- questions & feedback
+---
+## Break (10 min)
+---
+## Introduction to scraping (**rec**)
+
+- [Transparency register](https://transparency-register.europa.eu/searchregister-or-update/search-register_en)
+ 
+
+                    </script>
+
+				</section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
