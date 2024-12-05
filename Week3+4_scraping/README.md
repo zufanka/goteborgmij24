@@ -1,5 +1,6 @@
 ## Week 2 & 3
 [slides](https://homolova.sk/goteborgmij24/scraping)
+
 [recording](https://youtu.be/RZXZhCrE8pI)
 
 
