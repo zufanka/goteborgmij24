@@ -6,7 +6,9 @@
 
 This week we will be scraping the web. For that you will need to install two libraries: [`requests`](https://requests.readthedocs.io/en/latest/) , [`Beautiful Soup`](https://beautiful-soup-4.readthedocs.io/en/latest/), and [`csv`](https://docs.python.org/3/library/csv.html). Optionally install [`jupyter-lab`](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) (version of jupyter notebooks).
 
-Use [`pip`](https://pypi.org/project/pip/) to install libraries. It might be called `pip3` on your system
+Use [`pip`](https://pypi.org/project/pip/) to install libraries. It might be called `pip3` on your system.
+
+This directory also contains `skeleton.py` file with a dummy simple scraper structure. While some of the pages you might want to scrape will follow this structure losely,  please note however that every page is different and requires a bit different approach.
 
 ### Self-study
 
