@@ -1,5 +1,6 @@
 ## Week 2 & 3
 [slides](https://homolova.sk/goteborgmij24/scraping)
+[recording](https://youtu.be/RZXZhCrE8pI)
 
 
 This week we will be scraping the web. For that you will need to install two libraries: [`requests`](https://requests.readthedocs.io/en/latest/) , [`Beautiful Soup`](https://beautiful-soup-4.readthedocs.io/en/latest/), and [`csv`](https://docs.python.org/3/library/csv.html). Optionally install [`jupyter-lab`](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) (version of jupyter notebooks).
@@ -13,7 +14,7 @@ Use [`pip`](https://pypi.org/project/pip/) to install libraries. It might be cal
 - if you are unfamiliar with HTML, please also watch [this 7 min video on how a website is structured](https://www.youtube.com/watch?v=ipkjfvl40s0)
 
 #### scraping
-- rewatch the [scraping video from the class](https://youtu.be/RZXZhCrE8pI) and follow along. You can do it 💪 Ask the robots or your classmates for help if you don't understand why I did something.
+- rewatch the [scraping video from the class](https://youtu.be/RZXZhCrE8pI?si=g8okdMKBHBBGKrEL&t=1203) and follow along. You can do it 💪 Ask the robots or your classmates for help if you don't understand why I did something.
 - *(optional)* watch and follow this [scraping video](https://youtu.be/XVv6mJpFOb0?si=Q8o8EjvfC-drToIR) - this includes instructions on how to install libraries (until 48:20).
 - *(optional)* watch and follow [another scraping video](https://www.youtube.com/watch?v=gRLHr664tXA)
 - 
