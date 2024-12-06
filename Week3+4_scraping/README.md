@@ -73,6 +73,6 @@ You should know how to use these concepts and for what purpose:
 	Make sure that every table contains the **REG Number** of the organisation so we are to connect them information to one another. See the data [structure in this table](https://docs.google.com/spreadsheets/d/1IqIGa3rSzWroigOp1llXD47qLfVvmvxo-xrMdP5ZQRU/edit?gid=0#gid=0)
 
 
-[Upload the homework](https://forms.gle/zZhoMTMVrsJ8qzFL8) as a `.py` script 
+[Upload the homework](https://forms.gle/zZhoMTMVrsJ8qzFL8) as a `.py` script by **31.12.2024**
 
 Fill in [short survey](https://forms.gle/CT87GySvCS89UryDA)
