@@ -25,8 +25,8 @@ The grand ambition is to make a data story together during two and a half day in
 ##### Online:
 - **12.11** / 13:15 - 14:45 (1.5h) / *Introduction*
 - **05.12** / 14:15 - 15:45 (1.5h) / *Scraping*
-- **17.12** / 14:15 - 15:45 (1.5h) / *Data analysis*
-- **07.01.** / 13:15 - 14:45 (1.5h) / *Self study evaluation* 
+- **17.12** / 14:15 - 15:45 (1.5h) / *Scraping-2*
+- **07.01.** / 13:15 - 14:45 (1.5h) / *Data analysis* 
 ----
 ##### In person: Making a data story together
 - **13.01.** / 10-12 + 13:15 - 15:15 (4h)
