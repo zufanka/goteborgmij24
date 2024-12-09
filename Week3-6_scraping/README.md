@@ -65,6 +65,7 @@ Upload the script named v[Upload the homework](https://forms.gle/zZhoMTMVrsJ8qzF
 Send me your [questions about scraping](https://forms.gle/KSewqkdE6Ck3rfWu9) or Python / programming in general to handle during our next session together
 
 #### scraper 2 - deadline 30-12-2024
+- use the previous scraper as your starting point
 - From each law firm scrape:
 	- the table under "Profile of registrant"
 	- table under "Persons accredited for access to European Parliament premises"
@@ -77,6 +78,6 @@ Send me your [questions about scraping](https://forms.gle/KSewqkdE6Ck3rfWu9) or 
 	Make sure that every table contains the **REG Number** of the organisation so we are to connect them information to one another. See the data [structure in this table](https://docs.google.com/spreadsheets/d/1IqIGa3rSzWroigOp1llXD47qLfVvmvxo-xrMdP5ZQRU/edit?gid=0#gid=0)
 
 
-Upload the script named v[Upload the homework](https://forms.gle/zZhoMTMVrsJ8qzFL8) as `scraper2_yourname.py` by **15.12.2024**
+Upload the script named v[Upload the homework](https://forms.gle/zZhoMTMVrsJ8qzFL8) as `scraper2_yourname.py` by **30.12.2024**
 
 Fill in [short survey](https://forms.gle/CT87GySvCS89UryDA)
