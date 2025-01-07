@@ -1,9 +1,9 @@
 ## Scraping
 [slides](https://homolova.sk/goteborgmij24/scraping)
 
-[recording 1](https://youtu.be/RZXZhCrE8pI) - see also the [agencies scraper]()
+[recording 1](https://youtu.be/RZXZhCrE8pI) - see also the [agencies scraper](https://github.com/zufanka/goteborgmij24/blob/main/2_scraping/agencies_scraper.ipynb)
 
-[recording 2]() - see also the [transparency scraper]()
+[recording 2](https://youtu.be/xq6JZcfM-is) - see also the [transparency scraper](https://github.com/zufanka/goteborgmij24/blob/main/2_scraping/transparency_scraper.ipynb)
 
 These weeks we will be scraping the web. For that you will need to install two libraries: [`requests`](https://requests.readthedocs.io/en/latest/) , [`Beautiful Soup`](https://beautiful-soup-4.readthedocs.io/en/latest/), and [`csv`](https://docs.python.org/3/library/csv.html). Optionally install [`jupyter-lab`](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) (version of jupyter notebooks).
 
