@@ -2,13 +2,11 @@
 
 In this course you will learn how to use Python for journalism.
 
-In the first week you will tackle the basics of programming.
+In the first two weeks you will tackle the basics of programming.
 
-In the second week you apply these concepts to scraping websites.
+Then you will apply these concepts to scraping websites.
 
-In the third week you are going to learn the `pandas` library and learn the basics of data analysis.
-
-The grand ambition is to make a data story together during two and a half day in person class in Gothenburg.
+During our 2.5 days together in Gothenburg, you will learn the `pandas` library and learn the basics of data analysis.
 
 ## Course structure
 **Start**: 12.11.2024
@@ -26,9 +24,9 @@ The grand ambition is to make a data story together during two and a half day in
 - **12.11** / 13:15 - 14:45 (1.5h) / *Introduction*
 - **05.12** / 14:15 - 15:45 (1.5h) / *Scraping*
 - **17.12** / 14:15 - 15:45 (1.5h) / *Scraping-2*
-- **07.01.** / 13:15 - 14:45 (1.5h) / *Data analysis* 
+- **07.01.** / 13:15 - 14:45 (1.5h) / *Scraping-2* 
 ----
-##### In person: Making a data story together
+##### In person: Data analysis
 - **13.01.** / 10-12 + 13:15 - 15:15 (4h)
 - **14.01.** / 10-12 + 13:15 - 15:15 (4h)
 - **15.01.** / 10-12 (2h)

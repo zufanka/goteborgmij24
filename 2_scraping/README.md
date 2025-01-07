@@ -1,8 +1,9 @@
-## Week 3-6
+## Scraping
 [slides](https://homolova.sk/goteborgmij24/scraping)
 
-[recording](https://youtu.be/RZXZhCrE8pI)
+[recording 1](https://youtu.be/RZXZhCrE8pI) - see also the [agencies scraper]()
 
+[recording 2]() - see also the [transparency scraper]()
 
 These weeks we will be scraping the web. For that you will need to install two libraries: [`requests`](https://requests.readthedocs.io/en/latest/) , [`Beautiful Soup`](https://beautiful-soup-4.readthedocs.io/en/latest/), and [`csv`](https://docs.python.org/3/library/csv.html). Optionally install [`jupyter-lab`](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) (version of jupyter notebooks).
 
@@ -51,9 +52,9 @@ You should know how to use these concepts and for what purpose:
 - `csv.reader()` or `csv.DictReader()`
 - `csv.writer()` or `csv.DictWriter()`
 
-### Homework: scrape a website
+### Homework 1: scrape a website
 
-#### scraper 1 - deadline 15-12-2024
+#### scraper 1
 - Scrape law firms from the current [Transparency register](https://transparency-register.europa.eu/searchregister-or-update/search-register_en)
 - Create a csv table that contains 3 columns: `Organisation’s identification number`, `Organisation name` and the `organisation url`
 - loop over all the pages to get all the law firms
@@ -64,7 +65,7 @@ Upload the script named v[Upload the homework](https://forms.gle/zZhoMTMVrsJ8qzF
 
 Send me your [questions about scraping](https://forms.gle/KSewqkdE6Ck3rfWu9) or Python / programming in general to handle during our next session together
 
-#### scraper 2 - deadline 30-12-2024
+#### scraper 2
 - use the previous scraper as your starting point
 - From each law firm scrape:
 	- the table under "Profile of registrant"
@@ -77,7 +78,21 @@ Send me your [questions about scraping](https://forms.gle/KSewqkdE6Ck3rfWu9) or 
 	 
 	Make sure that every table contains the **REG Number** of the organisation so we are to connect them information to one another. See the data [structure in this table](https://docs.google.com/spreadsheets/d/1IqIGa3rSzWroigOp1llXD47qLfVvmvxo-xrMdP5ZQRU/edit?gid=0#gid=0)
 
+Upload the script named v[Upload the homework](https://forms.gle/zZhoMTMVrsJ8qzFL8) as `scraper2_yourname.py` by **05.01.2025**
 
-Upload the script named v[Upload the homework](https://forms.gle/zZhoMTMVrsJ8qzFL8) as `scraper2_yourname.py` by **30.12.2024**
+### Homework 2
+You can chose between a super simple scraper and a more complex one:
 
-Fill in [short survey](https://forms.gle/CT87GySvCS89UryDA)
+#### Single page, no pagination
+[Countries of the World](https://www.scrapethissite.com/pages/simple/)
+- scrape this page and output a csv with the header : `name, capital, population, area`
+
+#### Including pagination and details
+[Books to scrape](http://books.toscrape.com/)
+
+- scrape this page and output a csv with the header: `title, price, star_rating, url`
+- if you like you can also add the `description` of the book by going into the url of the books
+
+Upload the script named v[Upload the homework](https://forms.gle/sdFnXi87ETkSd2xd6) as `scraper3_yourname.py` by **12.01.2025**
+
+Please fill in [short survey](https://forms.gle/CT87GySvCS89UryDA) on the scraping part
