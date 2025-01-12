@@ -9,6 +9,5 @@ To know what to expect, watch this [introduction to pandas video](https://www.yo
 Introduction to pandas. See the [cheatsheet](https://github.com/zufanka/goteborgmij24/blob/main/3_data-analysis/pandas_cheatsheet.md)
 
 ### Homework: reading
-- [Uncovering big tech's hidden network](https://www.somo.nl/uncovering-big-techs-hidden-network/)
-- [Lobbying Bonanza as Firms Try to Influence European Union]()
-
+1. [Uncovering big tech's hidden network](https://www.somo.nl/uncovering-big-techs-hidden-network/)
+2. [Lobbying Bonanza as Firms Try to Influence European Union](https://github.com/zufanka/goteborgmij24/blob/main/3_data-analysis/docs/Lobbying%20Bonanza%20as%20Firms%20Try%20to%20Influence%20European%20Union%20-%20The%20New%20York%20Times.pdf)
