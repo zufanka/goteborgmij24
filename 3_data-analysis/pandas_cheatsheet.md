@@ -238,3 +238,8 @@ df.groupby('Department')['EmployeeCount'].pct_change()
 ```
 
 Group by 'Department' and calculate the percentage change of 'EmployeeCount'.
+
+## Merge
+```python
+df.merge(df1, df2, left_on="column", right_on="column")
+```
