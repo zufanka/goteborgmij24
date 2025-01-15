@@ -48,4 +48,4 @@ See the `dataviz` notebook for how to use `matplotlib` and the `altair` librarie
 - [RAW graphs: the exotic data visualisations](https://app.rawgraphs.io/)
 - [The pudding](https://pudding.cool/) - visual data essays
 - [Datawrapper blog](https://blog.datawrapper.de/category/datavis-dos-and-donts/) - tips and tricks on choices you make when making a datavisualisation
-- []
+- [Inkscape](https://inkscape.org/) - open source vector graphic software. Make static visualisations, linke this one I made on [Russian gas](https://europeanenergyinnovation.eu/OnlinePublication/Winter2024/index.html#p=12).
