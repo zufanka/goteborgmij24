@@ -26,7 +26,7 @@ During our 2.5 days together in Gothenburg, you will learn the `pandas` library 
 - **17.12** / 14:15 - 15:45 (1.5h) / *Scraping-2*
 - **07.01.** / 13:15 - 14:45 (1.5h) / *Scraping-2* 
 ----
-##### In person: Data analysis
-- **13.01.** / 10-12 + 13:15 - 15:15 (4h)
-- **14.01.** / 10-12 + 13:15 - 15:15 (4h)
-- **15.01.** / 10-12 (2h)
+##### In person: Data analysis & visualisation
+- **13.01.** / 10:15-12 + 13:15 - 15:15 (4h)
+- **14.01.** / 10:15-12 + 13:15 - 15:15 (4h)
+- **15.01.** / 10:15-12 (2h)

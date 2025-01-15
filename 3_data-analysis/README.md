@@ -38,3 +38,14 @@ With having some idea about what we can do with pandas, we'll dive into a little
 ## Tips
 - you have 3 hours to do this, don't overthink it. Getting 1 or 2 insights from the data and writing something around that is completely ok
 - you can use Ada as your data broker and python whisperer 🐍
+
+## Day 3 - data viz
+See the `dataviz` notebook for how to use `matplotlib` and the `altair` libraries.
+
+### Impressive links
+- [Altair example gallery](https://altair-viz.github.io/gallery/index.html#example-gallery)
+- [Scroll story with Flourish](https://pointer.kro-ncrv.nl/zeldzame-vogels-in-gevaar-door-stikstofvervuiling) - my story on birds being threathened by nitrogen pollution (in Dutch)
+- [RAW graphs: the exotic data visualisations](https://app.rawgraphs.io/)
+- [The pudding](https://pudding.cool/) - visual data essays
+- [Datawrapper blog](https://blog.datawrapper.de/category/datavis-dos-and-donts/) - tips and tricks on choices you make when making a datavisualisation
+- []
